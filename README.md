@@ -23,3 +23,7 @@ This rural intuition perfectly mirrors:
 1. **Cognitive Ergonomics:** Managing cognitive load and visual heuristics in repetitive physical tasks.
 2. **Deadbands in Control Systems:** Preventing oscillation and over-correction in automated systems.
 3. **Statistical Process Control:** Shewhart's distinction between common cause variation (noise, 4-5 escapes) and special cause variation (anomalies, 12-15 escapes).
+
+## Methodology
+- **Concept & Problem Definition:** Derived entirely from my personal field observations and logical reasoning.
+- **Simulation Code:** The Python script was structured and generated with the assistance of AI to quickly model the statistical distribution of the scenario.
